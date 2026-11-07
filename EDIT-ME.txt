@@ -1,0 +1,14 @@
+PORTFOLIO CONTENT CHECKLIST
+
+1. Verify contact details and social profile URLs in index.html.
+2. Add Brainery internship certificate if available.
+3. For richer project pages, add:
+   - your exact role and team size
+   - circuit/block diagram
+   - sensor and actuator models
+   - controller logic / algorithm
+   - GitHub repository or demo video
+4. The profile photograph and certificate images are copied as supplied.
+5. Open index.html with VS Code Live Server.
+
+Note: Your resume is included as a DOCX download. If you prefer a PDF download, export your resume to PDF and update the button link in index.html.
